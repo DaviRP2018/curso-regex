@@ -1,2 +1,3 @@
 # curso-regex
+https://www.udemy.com/course/curso-regex/
 Aprenda a usar Expressões Regulares (Regex) e aplique em várias linguagens: Javascript, Go, Ruby, Python, Java...
